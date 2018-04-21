@@ -17,7 +17,7 @@ def current_player (board)
   end
 end
 
-current_player([" ", " ", " ", "X"])  
+current_player([" ", " ", "X", "X"])  
   
   
   
